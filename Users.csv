@@ -1,0 +1,4 @@
+Name,DateOfBirth,Married,Phone,Salary
+user1,01.03.1999,false,9999999999,1000
+user2,02.05.2001,false,1111111111,800
+user3,10.12.1993,true,2222222222,2300
